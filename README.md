@@ -3,7 +3,7 @@ Manuscript:
 
   - Harmonic-Invariant Scaling Method for Power Electronic Converters in Power Hardware-in-the-Loop Test Beds
   
-submitted to:
+Submitted to:
 
   - Journal of Emerging and Selected Topics in Power Electronics 
   - Special Issue on Power Electronics for Distributed Energy Resources
@@ -20,6 +20,9 @@ This folder contains the data collected with an oscilloscope during the PHIL tes
   - C1.CSV: raw data of case 2 with Vbacsd=81V and Ibacsd=72A
   - C3.CSV: raw data of case 1 with Vbacsd=363V and Ibacsd=72A
   
- 
+## Models and Script
+The models and script will be placed in this folder after the reviewing process.
+
+
   
 
