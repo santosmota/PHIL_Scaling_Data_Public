@@ -20,7 +20,7 @@ This folder contains the data collected with an oscilloscope during the PHIL tes
   - C1.CSV: raw data of case 2 with Vbacsd=81V and Ibacsd=72A
   - C3.CSV: raw data of case 1 with Vbacsd=363V and Ibacsd=72A
   
-## Models and Scripts
+## Models
 The models and script that can be made publicly available will be placed in this folder after the reviewing process.
 
 
