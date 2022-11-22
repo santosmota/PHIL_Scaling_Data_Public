@@ -1,5 +1,5 @@
-# PHIL_Scaling_Data_Public
-Data repository of the manuscript:
+# Data Repository
+Manuscript:
 
   - Harmonic-Invariant Scaling Method for Power Electronic Converters in Power Hardware-in-the-Loop Test Beds
   
