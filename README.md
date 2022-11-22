@@ -3,12 +3,12 @@ Manuscript:
 
   - Harmonic-Invariant Scaling Method for Power Electronic Converters in Power Hardware-in-the-Loop Test Beds
   
-Submitted to:
+submitted to:
 
   - Journal of Emerging and Selected Topics in Power Electronics 
   - Special Issue on Power Electronics for Distributed Energy Resources
   - Sponsored by IEEE Industry Applications Society (IAS), IEEE Power Electronics Society (PELS)
-  - Topic: Testing and Validation: Grid‐emulation technologies including the hardwvare‐in‐the‐loop testing methods along with the challenges and prospects.
+  - Topic: Testing and Validation: Grid‐emulation technologies including the hardwvare‐in‐the‐loop testing methods along with the challenges and prospects
 
 on November 30th 2023.
 
