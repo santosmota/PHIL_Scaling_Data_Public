@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mota"
+  given-names: "Daniel dos Santos"
+  orcid: "https://orcid.org/0000-0002-3602-1036"
+- family-names: "Banda"
+  given-names: "Joseph Kiran"
+  orcid: "https://orcid.org/0000-0002-8209-6426"
+- family-names: "Adeyemo"
+  given-names: "Ayotunde Adekunle"
+  orcid: "https://orcid.org/0000-0001-6625-4925"
+title: "Data repository for the article Harmonic-Invariant Scaling Method for Power Electronic Converters in Power Hardware-in-the-Loop Test Beds"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXX
+date-released: 2023-05-09
+url: "https://github.com/santosmota/PHIL_Scaling_Data_Public/"
